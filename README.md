@@ -11,7 +11,7 @@ DevOps
 Cutting-Edge technologies
 engineering and culutre 
 Enterprise Architecture
-Architecure diagrams
+Architecure diagramss
 
 
 ```markdown
